@@ -1,19 +1,35 @@
 
 ###
 
-<h1 align="center">Hi 👋! My name is Ameer Hamza</h1>
+<h1 align="center">Hi 👋! My name is Hamza</h1>
 
 ###
 
 <h4 align="center">I'm a expert Front-End Developer with 3 years of experience.</h4>
+<p align="center">I am a Senior Front-End Developer with over 3+ years of experience in building high-performance, visually appealing web applications. My expertise spans modern web technologies, including React.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Next.js, and more. I have a proven track record of delivering responsive, user-friendly websites that prioritize seamless user experiences and robust functionality. I have worked across diverse industries, contributing to projects in eCommerce, health tech, finance, and more. My passion for design and technology allows me to blend creativity with technical precision, ensuring that every project meets both client expectations and industry standards. Whether it's developing interactive interfaces or optimizing web performance, my goal is always to create solutions that drive engagement and deliver value. I'm excited to continue growing and contributing to innovative projects that push the boundaries of web development.</p>
+
+
 
 ###
+- 👨‍💻 All of my projects are available at [https://hamza-dev-ochre.vercel.app/](https://hamza-dev-ochre.vercel.app/)
 
+
+
+- 💬 Ask me about **React JS,Tailwind CSS,Javascript,Typescript,MUI**
+
+- 📫 How to reach me :  **ah808166@gmail.com , ch.am33rhamza@gmail.com**
+
+- 📄 Know about my experiences :  [https://hamza-dev-ochre.vercel.app/](https://hamza-dev-ochre.vercel.app/)
+
+- ⚡ Fun fact :    **I think i am good team player and quick learner.**
+
+
+###
 <h3 align="left">My Stats:</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AHamza786&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
