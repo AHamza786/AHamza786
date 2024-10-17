@@ -11,15 +11,15 @@
 
 
 ###
-- 👨‍💻 All of my projects are available at [https://hamza-dev-ochre.vercel.app/](https://hamza-dev-ochre.vercel.app/)
+- 👨‍💻 Visit [My Portfolio](https://hamza-portfolio-omega.vercel.app/)  to know more about me
 
 
 
 - 💬 Ask me about **React JS,Tailwind CSS,Javascript,Typescript,MUI**
 
-- 📫 How to reach me :  **ah808166@gmail.com , ch.am33rhamza@gmail.com**
+- 📫 How to reach me :  **ah808166@gmail.com**
 
-- 📄 Know about my experiences :  [https://hamza-dev-ochre.vercel.app/](https://hamza-dev-ochre.vercel.app/)
+- 📄 Know about my experiences :  [My Portfolio](https://hamza-portfolio-omega.vercel.app/)
 
 - ⚡ Fun fact :    **I think i am good team player and quick learner.**
 
