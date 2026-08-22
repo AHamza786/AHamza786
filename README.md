@@ -11,7 +11,7 @@
 
 
 ###
-- 👨‍💻 Visit [My Portfolio](https://hamza-dev-portfolio.vercel.app/)  to know more about me
+- 👨‍💻 Visit [My Portfolio](https://www.ameer-hamza.dev/)  to know more about me
 
 
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me :  **ah808166@gmail.com**
 
-- 📄 Know about my experiences :  [My Portfolio](https://hamza-dev-portfolio.vercel.app/)
+- 📄 Know about my experiences :  [My Portfolio](https://www.ameer-hamza.dev/)
 
 - ⚡ Fun fact :    **I think i am good team player and quick learner.**
 
